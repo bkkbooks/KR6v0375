@@ -1,0 +1,2300 @@
+canonical_identifier: bkk:krp/KR6v0375/v1
+canonical_location: https://kanripo.org/bkk/KR6v0375/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 印度佛教史
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B11/B11n0076.xml
+    old_id: B11n0076
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0375_000.yaml, hash: 'sha256:7fd3e78039c2516ee34e3ef4a25b1be9550e69531dd9e4e2f3676a257959d6fc'}
+  - {seq: 1, filename: KR6v0375_001.yaml, hash: 'sha256:a762b1276b840a61cd4181d7b751c83b7936a90d454e097ea6b22252c6c87635'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0375_000.markers.yaml, hash: 'sha256:26ff1b8cd0064d2bb82ee10282f3de61b89778831b47bf501cb8a8cd6b555e00'}
+  - {seq: 1, role: markers, filename: assets/KR6v0375_001.markers.yaml, hash: 'sha256:ac1c711014f1a7e530959ebffa299e209b9701d11b1d99f844bb241214160e08'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0375_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 譯者敘言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 38561
+  label: 印度佛教史
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 第一章　善見王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-2
+    span:
+    - body
+    - 17
+    - 17
+  label: 一　大迦葉與阿難陀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-3
+    span:
+    - body
+    - 403
+    - 403
+  label: 二　商那和修
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-4
+    span:
+    - body
+    - 473
+    - 473
+  label: 第二章　蘇婆普王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-5
+    span:
+    - body
+    - 482
+    - 482
+  label: 一　末田提迦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-6
+    span:
+    - body
+    - 722
+    - 722
+  label: 二　商那和修之在室羅筏蘇底
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-7
+    span:
+    - body
+    - 761
+    - 761
+  label: 第三章　蘇陀奴王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-8
+    span:
+    - body
+    - 770
+    - 770
+  label: 一　末田提迦弘法罽賓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-9
+    span:
+    - body
+    - 927
+    - 927
+  label: 二　商那和修之付法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-10
+    span:
+    - body
+    - 1221
+    - 1221
+  label: 第四章　優波崛多時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-11
+    span:
+    - body
+    - 1230
+    - 1230
+  label: 一　優波崛多之守護教法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-12
+    span:
+    - body
+    - 1503
+    - 1503
+  label: 二　鬱多羅阿羅漢
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-13
+    span:
+    - body
+    - 1741
+    - 1741
+  label: 第五章　聖提多迦時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-14
+    span:
+    - body
+    - 1750
+    - 1750
+  label: 一　優波崛多之付法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-15
+    span:
+    - body
+    - 2016
+    - 2016
+  label: 二　提多迦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-16
+    span:
+    - body
+    - 2446
+    - 2446
+  label: 第六章　阿育王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-17
+    span:
+    - body
+    - 2454
+    - 2454
+  label: 一　阿育王之誕生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-18
+    span:
+    - body
+    - 2717
+    - 2717
+  label: 二　阿育王之即位
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-19
+    span:
+    - body
+    - 2979
+    - 2979
+  label: 三　阿育王與耶舍
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-20
+    span:
+    - body
+    - 3104
+    - 3104
+  label: 第七章　同阿育王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-21
+    span:
+    - body
+    - 3113
+    - 3113
+  label: 一　第二結集與十事非法之爭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-22
+    span:
+    - body
+    - 3713
+    - 3713
+  label: 二　聖迦羅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-23
+    span:
+    - body
+    - 3911
+    - 3911
+  label: 三　聖大善見
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-24
+    span:
+    - body
+    - 4315
+    - 4315
+  label: 第八章　離憂王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-25
+    span:
+    - body
+    - 4323
+    - 4323
+  label: 一　拘那羅王子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-26
+    span:
+    - body
+    - 4779
+    - 4779
+  label: 二　離憂王
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-27
+    span:
+    - body
+    - 4808
+    - 4808
+  label: 第九章　第二迦葉時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-28
+    span:
+    - body
+    - 4817
+    - 4817
+  label: 一　勇軍王
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-29
+    span:
+    - body
+    - 4944
+    - 4944
+  label: 二　大天之五事爭論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-30
+    span:
+    - body
+    - 5160
+    - 5160
+  label: 三　跋陀羅之五事論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-31
+    span:
+    - body
+    - 5373
+    - 5373
+  label: 第十章　聖摩訶盧摩時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-32
+    span:
+    - body
+    - 5383
+    - 5383
+  label: 一　難陀王
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-33
+    span:
+    - body
+    - 5479
+    - 5479
+  label: 二　龍比丘之與四部分裂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-34
+    span:
+    - body
+    - 5555
+    - 5555
+  label: 三　聲明家波膩尼
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-35
+    span:
+    - body
+    - 5745
+    - 5745
+  label: 第十一章　大蓮華王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-36
+    span:
+    - body
+    - 5755
+    - 5755
+  label: 一　十八部分裂之起源
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-37
+    span:
+    - body
+    - 5912
+    - 5912
+  label: 二　毗婆沙論之編造
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-38
+    span:
+    - body
+    - 6107
+    - 6107
+  label: 三　月護王與大乘之起源
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-39
+    span:
+    - body
+    - 6237
+    - 6237
+  label: 第十二章　第三次結集時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-40
+    span:
+    - body
+    - 6248
+    - 6248
+  label: 一　師子善見與迦膩色迦王
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-41
+    span:
+    - body
+    - 6405
+    - 6405
+  label: 二　脇比丘與第三次結集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-42
+    span:
+    - body
+    - 6716
+    - 6716
+  label: 三　第三結集與筆錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-43
+    span:
+    - body
+    - 6896
+    - 6896
+  label: 第十三章　大乘弘傳之初期
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-44
+    span:
+    - body
+    - 6907
+    - 6907
+  label: 一　世友與妙音
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-45
+    span:
+    - body
+    - 7133
+    - 7133
+  label: 二　大乘之弘傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-46
+    span:
+    - body
+    - 7333
+    - 7333
+  label: 三　寶積華嚴等大乘經典之出世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-47
+    span:
+    - body
+    - 7728
+    - 7728
+  label: 四　尊勝成就主與商羯羅主
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-48
+    span:
+    - body
+    - 7856
+    - 7856
+  label: 五　那爛陀寺之建造始末
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-49
+    span:
+    - body
+    - 8096
+    - 8096
+  label: 第十四章　羅睺羅跋陀羅時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-50
+    span:
+    - body
+    - 8108
+    - 8108
+  label: 一　祕密續部經典之出現
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-51
+    span:
+    - body
+    - 8579
+    - 8579
+  label: 二　毗婆沙師之四大德
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-52
+    span:
+    - body
+    - 8721
+    - 8721
+  label: 三　訶梨旃陀羅王與十萬般若等大乘經之出現
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-53
+    span:
+    - body
+    - 8834
+    - 8834
+  label: 第十五章　聖龍樹守護教法時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-54
+    span:
+    - body
+    - 8847
+    - 8847
+  label: 一　龍樹之弘揚中觀與難陀、正軍、真諦之唯識宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-55
+    span:
+    - body
+    - 9042
+    - 9042
+  label: 二　聖龍樹之著書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-56
+    span:
+    - body
+    - 9153
+    - 9153
+  label: 三　龍樹之晚年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-57
+    span:
+    - body
+    - 9291
+    - 9291
+  label: 四　于闐與覩貨羅等國之佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-58
+    span:
+    - body
+    - 9480
+    - 9480
+  label: 五　摩罕默德之創立回教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-59
+    span:
+    - body
+    - 9665
+    - 9665
+  label: 第十六章　正法第一次遇敵後興復時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-60
+    span:
+    - body
+    - 9681
+    - 9681
+  label: 一　勝友王之破壞佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-61
+    span:
+    - body
+    - 9989
+    - 9989
+  label: 二　破壞後之復興
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-62
+    span:
+    - body
+    - 10238
+    - 10238
+  label: 第十七章　阿闍黎聖提婆時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-63
+    span:
+    - body
+    - 10250
+    - 10250
+  label: 一　提婆
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-64
+    span:
+    - body
+    - 10512
+    - 10512
+  label: 二　龍猛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-65
+    span:
+    - body
+    - 10578
+    - 10578
+  label: 三　龍智
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-66
+    span:
+    - body
+    - 10686
+    - 10686
+  label: 四　成就者新迦波等人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-67
+    span:
+    - body
+    - 10834
+    - 10834
+  label: 第十八章　阿闍黎馬鳴等時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-68
+    span:
+    - body
+    - 10846
+    - 10846
+  label: 一　頻頭沙羅王與迦膩迦王
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-69
+    span:
+    - body
+    - 11090
+    - 11090
+  label: 二　馬鳴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-70
+    span:
+    - body
+    - 11260
+    - 11260
+  label: 三　羅睺羅跋陀羅（羅睺羅賢）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-71
+    span:
+    - body
+    - 11348
+    - 11348
+  label: 第十九章　正法第二次遇敵後興復時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-72
+    span:
+    - body
+    - 11364
+    - 11364
+  label: 一　大食之入侵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-73
+    span:
+    - body
+    - 11506
+    - 11506
+  label: 二　佛方王之復興佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-74
+    span:
+    - body
+    - 11743
+    - 11743
+  label: 第二十章　正法第三次遇敵後興復時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-75
+    span:
+    - body
+    - 11759
+    - 11759
+  label: 一　摩耶黎迦菩提與牟提達跋陀羅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-76
+    span:
+    - body
+    - 11924
+    - 11924
+  label: 二　那爛陀寺之被燬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-77
+    span:
+    - body
+    - 12230
+    - 12230
+  label: 三　破壞後之興復
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-78
+    span:
+    - body
+    - 12416
+    - 12416
+  label: 第二十一章　佛方王事業終了與羯磨旃陀羅王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-79
+    span:
+    - body
+    - 12437
+    - 12437
+  label: 一　經典之保存
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-80
+    span:
+    - body
+    - 12609
+    - 12609
+  label: 二　難陀富利耶等人之弘揚大乘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-81
+    span:
+    - body
+    - 12757
+    - 12757
+  label: 第二十二章　無著兄弟時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-82
+    span:
+    - body
+    - 12768
+    - 12768
+  label: 一　深方王一切所貴王等人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-83
+    span:
+    - body
+    - 13047
+    - 13047
+  label: 二　密教續部之次第弘揚與龍智
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-84
+    span:
+    - body
+    - 13648
+    - 13648
+  label: 三　阿闍黎無著
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-85
+    span:
+    - body
+    - 14341
+    - 14341
+  label: 四　阿闍黎世親
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-86
+    span:
+    - body
+    - 14910
+    - 14910
+  label: 五　俱舍論與眾賢
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-87
+    span:
+    - body
+    - 15161
+    - 15161
+  label: 第二十三章　陳那阿闍黎時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-88
+    span:
+    - body
+    - 15173
+    - 15173
+  label: 一　室利訶盧沙王與毘伽摩旃陀羅王父子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-89
+    span:
+    - body
+    - 15568
+    - 15568
+  label: 二　室利訶盧沙王破滅回教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-90
+    span:
+    - body
+    - 15688
+    - 15688
+  label: 三　德光
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-91
+    span:
+    - body
+    - 15766
+    - 15766
+  label: 四　安慧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-92
+    span:
+    - body
+    - 15864
+    - 15864
+  label: 五　陳那
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-93
+    span:
+    - body
+    - 16142
+    - 16142
+  label: 六　僧使
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-94
+    span:
+    - body
+    - 16285
+    - 16285
+  label: 七　法使
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-95
+    span:
+    - body
+    - 16338
+    - 16338
+  label: 八　佛護
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-96
+    span:
+    - body
+    - 16428
+    - 16428
+  label: 九　清辯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-97
+    span:
+    - body
+    - 16773
+    - 16773
+  label: 十　解脫軍
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-98
+    span:
+    - body
+    - 17180
+    - 17180
+  label: 十一　三寶使
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-99
+    span:
+    - body
+    - 17433
+    - 17433
+  label: 第二十四章　戒日王（尸羅王）時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-100
+    span:
+    - body
+    - 17446
+    - 17446
+  label: 一　戒日王
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-101
+    span:
+    - body
+    - 17527
+    - 17527
+  label: 二　信訶王父子與信訶旃陀羅王
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-102
+    span:
+    - body
+    - 17867
+    - 17867
+  label: 三　佛齒之供養
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-103
+    span:
+    - body
+    - 17939
+    - 17939
+  label: 四　具吉祥月稱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-104
+    span:
+    - body
+    - 18112
+    - 18112
+  label: 五　阿闍黎月官
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-105
+    span:
+    - body
+    - 18418
+    - 18418
+  label: 六　月稱與月官之論辯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-106
+    span:
+    - body
+    - 18841
+    - 18841
+  label: 第二十五章　紮羅王與第五信訶王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-107
+    span:
+    - body
+    - 18857
+    - 18857
+  label: 一　紮羅王，第五信訶王，婆羅斯那王
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-108
+    span:
+    - body
+    - 19214
+    - 19214
+  label: 二　調伏軍與解脫軍
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-109
+    span:
+    - body
+    - 19273
+    - 19273
+  label: 三　德慧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-110
+    span:
+    - body
+    - 19337
+    - 19337
+  label: 四　護法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-111
+    span:
+    - body
+    - 19555
+    - 19555
+  label: 五　寂天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-112
+    span:
+    - body
+    - 19682
+    - 19682
+  label: 六　一切智友
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-113
+    span:
+    - body
+    - 19750
+    - 19750
+  label: 七　曇毘黑盧迦與婆日羅犍達
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-114
+    span:
+    - body
+    - 19857
+    - 19857
+  label: 第二十六章　吉祥法稱時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-115
+    span:
+    - body
+    - 19868
+    - 19868
+  label: 一　動堅王，極明王等諸王
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-116
+    span:
+    - body
+    - 20198
+    - 20198
+  label: 二　商羯羅之對抗佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-117
+    span:
+    - body
+    - 20521
+    - 20521
+  label: 三　提婆濕摩羅與寶稱之註釋中論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-118
+    span:
+    - body
+    - 20638
+    - 20638
+  label: 四　世友與十八部之分裂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-119
+    span:
+    - body
+    - 20885
+    - 20885
+  label: 五　法稱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-120
+    span:
+    - body
+    - 21246
+    - 21246
+  label: 六　法稱與遊戲童子之辯論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-121
+    span:
+    - body
+    - 21523
+    - 21523
+  label: 七　法稱與商羯羅之辯論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-122
+    span:
+    - body
+    - 22252
+    - 22252
+  label: 八　法稱與轉世商羯羅之辯論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-123
+    span:
+    - body
+    - 22738
+    - 22738
+  label: 九　六莊嚴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-124
+    span:
+    - body
+    - 22793
+    - 22793
+  label: 十　盧婆波諸人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-125
+    span:
+    - body
+    - 22925
+    - 22925
+  label: 十一　羅黎多婆日羅與黎羅婆日羅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-126
+    span:
+    - body
+    - 23223
+    - 23223
+  label: 第二十七章　瞿毘旃陀羅王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-127
+    span:
+    - body
+    - 23236
+    - 23236
+  label: 一　瞿毘旃陀羅王等諸王
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-128
+    span:
+    - body
+    - 23497
+    - 23497
+  label: 二　唯識宗之阿闍黎
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-129
+    span:
+    - body
+    - 23692
+    - 23692
+  label: 三　智藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-130
+    span:
+    - body
+    - 23738
+    - 23738
+  label: 四　無性
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-131
+    span:
+    - body
+    - 23753
+    - 23753
+  label: 五　法友
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-132
+    span:
+    - body
+    - 23823
+    - 23823
+  label: 六　長尖法冠之創製
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-133
+    span:
+    - body
+    - 24041
+    - 24041
+  label: 七　無上瑜伽部之興盛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-134
+    span:
+    - body
+    - 24539
+    - 24539
+  label: 第二十八章　瞿波羅王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-135
+    span:
+    - body
+    - 24550
+    - 24550
+  label: 一　瞿波羅王之治世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-136
+    span:
+    - body
+    - 24779
+    - 24779
+  label: 二　中觀自續派之傳承
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-137
+    span:
+    - body
+    - 24894
+    - 24894
+  label: 三　釋迦慧、戒賢諸人與小毘盧波
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-138
+    span:
+    - body
+    - 25156
+    - 25156
+  label: 第二十九章　提婆波羅王父子時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-139
+    span:
+    - body
+    - 25170
+    - 25170
+  label: 一　提婆波羅王與蘇摩富黎伽藍之建立
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-140
+    span:
+    - body
+    - 25255
+    - 25255
+  label: 二　提婆波羅王破壞外道伽藍
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-141
+    span:
+    - body
+    - 25403
+    - 25403
+  label: 三　釋迦友、善友、智月、師子賢諸人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-142
+    span:
+    - body
+    - 25508
+    - 25508
+  label: 四　來西藏之菩提薩埵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-143
+    span:
+    - body
+    - 25702
+    - 25702
+  label: 五　新世親與妙金剛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-144
+    span:
+    - body
+    - 25837
+    - 25837
+  label: 六　摩騰格波與護足
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-145
+    span:
+    - body
+    - 25957
+    - 25957
+  label: 第三十章　吉祥達磨波羅王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-146
+    span:
+    - body
+    - 25970
+    - 25970
+  label: 一　達磨波羅王與師子賢智足
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-147
+    span:
+    - body
+    - 26159
+    - 26159
+  label: 二　超岩寺及其餘伽藍之建立
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-148
+    span:
+    - body
+    - 26284
+    - 26284
+  label: 三　般若經之弘傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-149
+    span:
+    - body
+    - 26391
+    - 26391
+  label: 四　茶苦羅祐陀王時代之諸阿闍黎
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-150
+    span:
+    - body
+    - 26505
+    - 26505
+  label: 五　師子賢之講說般若
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-151
+    span:
+    - body
+    - 26624
+    - 26624
+  label: 六　海雲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-152
+    span:
+    - body
+    - 26659
+    - 26659
+  label: 七　佛智足與五祕密部
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-153
+    span:
+    - body
+    - 26785
+    - 26785
+  label: 八　寂友
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-154
+    span:
+    - body
+    - 26856
+    - 26856
+  label: 九　羅睺羅跋陀羅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-155
+    span:
+    - body
+    - 26951
+    - 26951
+  label: 十　佛密與佛寂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-156
+    span:
+    - body
+    - 27106
+    - 27106
+  label: 第三十一章　摩蘇羅俱什多王、婆那波羅王、摩西波羅王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-157
+    span:
+    - body
+    - 27130
+    - 27130
+  label: 一　法勝法友等人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-158
+    span:
+    - body
+    - 27227
+    - 27227
+  label: 二　中觀應成派之後馬鳴與諸餘阿闍黎
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-159
+    span:
+    - body
+    - 27400
+    - 27400
+  label: 三　眾喜藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-160
+    span:
+    - body
+    - 27863
+    - 27863
+  label: 第三十二章　摩訶波羅王與沙牟波羅王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-161
+    span:
+    - body
+    - 27881
+    - 27881
+  label: 一　時輪之出世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-162
+    span:
+    - body
+    - 28079
+    - 28079
+  label: 二　藏足及其弟子祇多梨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-163
+    span:
+    - body
+    - 28236
+    - 28236
+  label: 三　黑三昧耶金剛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-164
+    span:
+    - body
+    - 28283
+    - 28283
+  label: 第三十三章　紮那迦王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-165
+    span:
+    - body
+    - 28294
+    - 28294
+  label: 一　紮那迦王與土耳其王之戰爭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-166
+    span:
+    - body
+    - 28575
+    - 28575
+  label: 二　超岩寺六賢門之顯底波、慧生意、語自在稱與那露波
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-167
+    span:
+    - body
+    - 28895
+    - 28895
+  label: 三　覺賢
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-168
+    span:
+    - body
+    - 28951
+    - 28951
+  label: 四　摩揭陀之二大柱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-169
+    span:
+    - body
+    - 29378
+    - 29378
+  label: 第三十四章　吠耶波羅王與湼耶波羅王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-170
+    span:
+    - body
+    - 29396
+    - 29396
+  label: 一　阿提沙，梅多梨波
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-171
+    span:
+    - body
+    - 29597
+    - 29597
+  label: 二　大金剛座，不空金剛等人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-172
+    span:
+    - body
+    - 29774
+    - 29774
+  label: 三　智護
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-173
+    span:
+    - body
+    - 29818
+    - 29818
+  label: 四　無比海
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-174
+    span:
+    - body
+    - 29862
+    - 29862
+  label: 五　因明家夜魔梨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-175
+    span:
+    - body
+    - 29899
+    - 29899
+  label: 六　造七部量論釋之商羯羅難陀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-176
+    span:
+    - body
+    - 29943
+    - 29943
+  label: 第三十五章　阿摩羅波羅王、訶薩底波羅王、與俱扇底波羅王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-177
+    span:
+    - body
+    - 29969
+    - 29969
+  label: 一　羅多那迦羅崛多等人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-178
+    span:
+    - body
+    - 30262
+    - 30262
+  label: 二　羅睺羅友等人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-179
+    span:
+    - body
+    - 30455
+    - 30455
+  label: 第三十六章　羅摩波羅王時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-180
+    span:
+    - body
+    - 30467
+    - 30467
+  label: 一　大阿闍黎阿跋耶迦羅崛多
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-181
+    span:
+    - body
+    - 30811
+    - 30811
+  label: 二　回教之傳播
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-182
+    span:
+    - body
+    - 31086
+    - 31086
+  label: 三　佛稱之來西藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-183
+    span:
+    - body
+    - 31320
+    - 31320
+  label: 第三十七章　斯那四王等時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-184
+    span:
+    - body
+    - 31332
+    - 31332
+  label: 一　阿跋耶迦與釋迦室利等大自在者二十四人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-185
+    span:
+    - body
+    - 31663
+    - 31663
+  label: 二　羅多那羅俱什多與摩揭陀之滅亡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-186
+    span:
+    - body
+    - 31824
+    - 31824
+  label: 三　惹諾那迦羅崛多諸人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-187
+    span:
+    - body
+    - 31945
+    - 31945
+  label: 四　佛教衰微與回教徒之入侵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-188
+    span:
+    - body
+    - 32214
+    - 32214
+  label: 五　釋迦室利之入藏與諸班支達之逃亡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-189
+    span:
+    - body
+    - 32691
+    - 32691
+  label: 六　搽伽拉羅闍王之征服土耳其
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-190
+    span:
+    - body
+    - 32910
+    - 32910
+  label: 第三十八章　超岩寺之堪布傳承
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-191
+    span:
+    - body
+    - 32923
+    - 32923
+  label: 一　楞伽勝賢
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-192
+    span:
+    - body
+    - 33106
+    - 33106
+  label: 二　吉祥持
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-193
+    span:
+    - body
+    - 33208
+    - 33208
+  label: 三　跋婆跋陀羅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-194
+    span:
+    - body
+    - 33269
+    - 33269
+  label: 四　具分稱等人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-195
+    span:
+    - body
+    - 33504
+    - 33504
+  label: 五　阿提沙等人與超岩寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-196
+    span:
+    - body
+    - 33687
+    - 33687
+  label: 第三十九章　東方孤基地區佛教之弘傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-197
+    span:
+    - body
+    - 33703
+    - 33703
+  label: 一　孤基之疆域
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-198
+    span:
+    - body
+    - 33843
+    - 33843
+  label: 二　孤基之佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-199
+    span:
+    - body
+    - 34285
+    - 34285
+  label: 第四十章　於諸小島佛教傳播理趣與南方等地佛教之再度弘傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-200
+    span:
+    - body
+    - 34311
+    - 34311
+  label: 一　諸小島之聲聞教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-201
+    span:
+    - body
+    - 34444
+    - 34444
+  label: 二　蓮華生、阿提沙與土羅美羅島
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-202
+    span:
+    - body
+    - 34601
+    - 34601
+  label: 三　南方等地佛教之弘傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-203
+    span:
+    - body
+    - 34827
+    - 34827
+  label: 四　婆羅跋陀羅王
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-204
+    span:
+    - body
+    - 34931
+    - 34931
+  label: 第四十一章　於南方弘法傳承華鬘一書所出之史話
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-205
+    span:
+    - body
+    - 34952
+    - 34952
+  label: 一　華鬘一書之著者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-206
+    span:
+    - body
+    - 35096
+    - 35096
+  label: 二　統治王等諸王之供養布施事業
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-207
+    span:
+    - body
+    - 35208
+    - 35208
+  label: 三　毘耶具羅羅闍等諸王之供養事業
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-208
+    span:
+    - body
+    - 35352
+    - 35352
+  label: 四　大海王等諸王之建立道場
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-209
+    span:
+    - body
+    - 35404
+    - 35404
+  label: 五　提婆羅闍王等諸王之保護教法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-210
+    span:
+    - body
+    - 35581
+    - 35581
+  label: 六　波羅密多羅等人之建塔造像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-211
+    span:
+    - body
+    - 35970
+    - 35970
+  label: 七　眾喜賢等人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-212
+    span:
+    - body
+    - 36047
+    - 36047
+  label: 八　大德中觀慧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-213
+    span:
+    - body
+    - 36129
+    - 36129
+  label: 第四十二章　略究四部義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-214
+    span:
+    - body
+    - 36139
+    - 36139
+  label: 一　上座部人之分部意見
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-215
+    span:
+    - body
+    - 36331
+    - 36331
+  label: 二　大眾部人之分部意見
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-216
+    span:
+    - body
+    - 36487
+    - 36487
+  label: 三　一切所貴部人之分部意見
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-217
+    span:
+    - body
+    - 36640
+    - 36640
+  label: 四　說一切有部人之分部意見
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-218
+    span:
+    - body
+    - 36876
+    - 36876
+  label: 五　分部名目之異說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-219
+    span:
+    - body
+    - 37328
+    - 37328
+  label: 第四十三章　真言乘起源略考
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-220
+    span:
+    - body
+    - 37340
+    - 37340
+  label: 一　真言乘之起源
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-221
+    span:
+    - body
+    - 37550
+    - 37550
+  label: 二　真言乘發生之誤說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-222
+    span:
+    - body
+    - 37742
+    - 37742
+  label: 第四十四章　造像發生理趣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-223
+    span:
+    - body
+    - 37753
+    - 37753
+  label: 一　佛滅百年迄龍樹時代以前之工巧明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-224
+    span:
+    - body
+    - 37881
+    - 37881
+  label: 二　龍樹後之工巧明及其流派
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0375_B_001-mulu-225
+    span:
+    - body
+    - 38400
+    - 38400
+  label: 結論
+  type: mulu
+  level: 1
+hash: sha256:f72c401187cdc522d8081a72f5e1f00e5c5352e81b2f4496f9d42ec8f6426217
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
