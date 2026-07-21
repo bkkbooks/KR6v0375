@@ -18,17 +18,17 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0375_000.yaml, hash: 'sha256:7fd3e78039c2516ee34e3ef4a25b1be9550e69531dd9e4e2f3676a257959d6fc'}
+  - {seq: 0, filename: KR6v0375_000.yaml, hash: 'sha256:c1b779737d5c3d7547ba6e3d8570f855e0728b8343b8658325758a99831d5334'}
   - {seq: 1, filename: KR6v0375_001.yaml, hash: 'sha256:9b7ab2f22173da99ac3f524a207352fc975edfc386d0c4005dcdbb13f3cbbb94'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0375_000.markers.yaml, hash: 'sha256:6b65e6cdedafb60e8a6faf5ee8197b0e58e13948ec10beca3625d8bbf5a7ea39'}
+  - {seq: 0, role: markers, filename: assets/KR6v0375_000.markers.yaml, hash: 'sha256:fd388bea6cfe3103e36916d0a392ebbc52bef21eee1d75eba2188fe9143a51c2'}
   - {seq: 1, role: markers, filename: assets/KR6v0375_001.markers.yaml, hash: 'sha256:80cf1047425adc3b06292145a63cafcc62476ddc2b06fbdb18b77133abe34432'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0375_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 譯者敘言
@@ -2294,7 +2294,7 @@ table_of_contents:
   label: 結論
   type: mulu
   level: 1
-hash: sha256:41f97fdc9b74e1bd8339a636dda32ad18461dd68b78298072eeb4ddcf5a3292c
+hash: sha256:e2677822614f76df6b7b346c5c4e186cd7c494fd45ca5b2878a30ac7e0edb4e7
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
